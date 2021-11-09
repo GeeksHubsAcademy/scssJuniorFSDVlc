@@ -1,0 +1,11 @@
+
+@import 'scss/variables.scss';
+@import 'Containers/Home/Home.scss';
+@import 'Containers/Register/Register.scss';
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
